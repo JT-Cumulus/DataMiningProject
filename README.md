@@ -1,3 +1,3 @@
-# SpatialTermProject
+# Estimating Housing Prices in Amsterdam
 
-Spatial Project based on Estimating Housing Prices in Amsterdam through various factors
+Spatial Term Project based on estimating house prices in Amsterdam through various factors
